@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohamed Nazeer</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ziad Dorrah</h1></summary>
   </ul>
 </div>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!--Intro start-->
 - 🧑‍🎓 Graduated from faculty of computer science .
 
-- 💻 Front-End Developer at _Future of Egypt_ .
+- 💻 Front-End Developer at Upwork .
 
 - 🌱 I’m currently learning _Backend_.
 
@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about _Front-End Development with React.js_.
 
-- 📄 Check out my portfolio: [MohameddNazeer](https://mohameddnazeer.github.io/portfolio/)
+- 📄 Check out my portfolio: [ZiadDorrah](https://ziaddorrah.github.io/My-Portfolio.github.io/)
 
-- 📫 Reach me: *mohamed55nazeer55@gmail.com*
+- 📫 Reach me: *ziaddorrah03@gmail.com*
 
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=mohameddnazeer&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddnazeer&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiadDorrah&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadDorrah&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>     
 <!--- stats & Trophy (end) -->
 
@@ -84,12 +84,12 @@ Here are some ideas to get you started:
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohameddnazeer/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/ziad-dorrah/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
  </p>
 
 <!--profile visit count-->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohameddnazeer&label=Profile%20views&color=0e75b6&style=flat" alt="mohameddnazeer" />
+  <img src="https://komarev.com/ghpvc/?username=ZiadDorrah&label=Profile%20views&color=0e75b6&style=flat" alt="ZiadDorrah" />
 </div>
 
 <!--horizontal divider(gradiant)-->
