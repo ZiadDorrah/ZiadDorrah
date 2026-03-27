@@ -20,7 +20,7 @@
 - 💻 **Freelance Developer** on Upwork with 3+ years of experience delivering top-rated results.
 - 🚀 **Currently working on:** Developing healthcare SaaS platforms and customizing Odoo ERP systems (workflows, access rights, and security).
 - 🧠 **Always learning:** Expanding my expertise in cloud computing and server deployment.
-- 📄 **Check out my portfolio:** [ZiadDorrah.github.io]([https://ziaddorrah.github.io/My-Portfolio.github.io/](https://ziaddorrah.github.io/portfolio/))
+- 📄 **Check out my portfolio:** [ZiadDorrah.github.io]([https://ziaddorrah.github.io/My-Portfolio.github.io/](https://ziaddorrah.github.io/portfolio/)
 - 📫 **Reach me:** [ziaddorrah03@gmail.com](mailto:ziaddorrah03@gmail.com)
 
 <br />
